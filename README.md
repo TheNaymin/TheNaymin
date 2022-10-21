@@ -8,7 +8,7 @@ I'm Numan Baştürk
 
  <h2>Here is My Contact 📮 </h2>
 
- - All my links in here > [My links](linktr.ee/thenaymin)
+ - All my links in here > [My links](https://linktr.ee/thenaymin)
 
  <h2>My Plans 🗒️</h2>
 
