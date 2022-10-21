@@ -19,3 +19,4 @@ I'm Numan Baştürk
 
 
 - # Thank you for visiting my github profile. For contact check my links.
+I'll share my project in here soon.
