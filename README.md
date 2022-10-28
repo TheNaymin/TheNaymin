@@ -1,7 +1,7 @@
 <h2>Hello World 👋</h2>
 
 
-I'm Numan Baştürk
+I'm Numan
 
  - <i>Currently,</i> Studying at computer engineering at Karabuk University.
  - And working on some front-end projects.
@@ -15,6 +15,7 @@ I'm Numan Baştürk
 - > Research about *Web 3.0*
 - > Create my own webpage
 - > Focus on *freelance* jobs.
+- > Learning Python.
 
 
 
